@@ -67,4 +67,7 @@ Asteroid Escape is not just a game—it’s a showcase of technical expertise an
 
 Asteroid Escape is a proud demonstration of my technical and creative growth as a game developer. From crafting smooth player controls to balancing gameplay mechanics, every detail reflects my dedication and passion for programming. I look forward to showcasing this project and sharing the excitement of surviving the asteroid challenge!
 
+![image](https://github.com/user-attachments/assets/f5042693-155f-4e83-b859-a966fb8b0f7e)
+
+
 Let me know if you'd like further refinements or additions! This version captures the effort and enthusiasm while keeping it professional and engaging. 🚀
